@@ -1,5 +1,5 @@
+/* Imports/Fonts */
 @import url("https://fonts.googleapis.com/css?family=Bellefair|Poppins");
-
 /* About */
 p {
   font-size: medium; }
@@ -79,3 +79,5 @@ p {
 .btn-clear {
   background: rgba(0, 0, 0, 0);
   font-family: 'Bellefair', palatino; }
+
+/*# sourceMappingURL=style.css.map */
